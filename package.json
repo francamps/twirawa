@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "net": "^1.0.2",
-    "node-twitter": "^0.5.2",
-    "twit": "^1.1.18"
+    "node-twitter": "^0.5.2"
   }
 }
