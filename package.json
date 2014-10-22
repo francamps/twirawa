@@ -1,0 +1,15 @@
+{
+  "name": "twitter-random-walk",
+  "author": "enFranc",
+  "url": "www.franc.ly",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francamps/twitter-random-walk.git"
+  },
+  "dependencies": {
+    "net": "^1.0.2",
+    "node-twitter": "^0.5.2",
+    "twit": "^1.1.18"
+  }
+}
